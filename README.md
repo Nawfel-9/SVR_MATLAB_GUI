@@ -1,4 +1,6 @@
-# Description
+# SVR MATLAB GUI
+
+## Description
 
 Cette application permet de :
 
