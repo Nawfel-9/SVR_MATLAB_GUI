@@ -1,12 +1,4 @@
-## Membres de groupe:
-
-SERRAJI Wiam M22001
-ZBIDA Mohamed Amine P22009
-KHALIL Abderrazak M22122
-EL KHAMKHOUMI Naoufal M22118
-ESSAHRAOUI Amine M22236
-
-## Description
+# Description
 
 Cette application permet de :
 
